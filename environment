@@ -1,0 +1,2 @@
+module load miniconda
+source activate dft
